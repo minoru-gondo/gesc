@@ -16,5 +16,5 @@ npm run dev
 ```
 
 > Faltou implementar:
-- Excluir uma matricula e o aluno;
+- Excluir uma matricula e/ou o aluno;
 - Editar o status de uma matricula;
