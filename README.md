@@ -10,7 +10,7 @@
 # para instalar as dependências execute:
 npm install
 
-# para iniciar o servidor execute
+# para iniciar o sistema execute
 npm run dev
 
 ```
