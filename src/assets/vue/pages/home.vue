@@ -2,7 +2,7 @@
   <div>
     <navbar />
     <div class="container">
-      <div class="home">teste</div>
+      <div class="home">Bem vindo ao Sistema de Gestão Escolar</div>
     </div>
   </div>
 </template>
@@ -27,5 +27,7 @@ export default {
 <style lang="scss" scoped>
   .home {
     padding: 20px 0px 0px 20px;
+    text-align: center;
+    font-size: 4vw;
   }
 </style>
