@@ -14,3 +14,7 @@ npm install
 npm run dev
 
 ```
+
+> Faltou implementar:
+- Excluir uma matricula e o aluno;
+- Editar o status de uma matricula;
